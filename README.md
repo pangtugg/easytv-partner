@@ -27,8 +27,6 @@
 
 ## 截图
 
-真机拍的，IP 与型号打了码。
-
 | | |
 |---|---|
 | ![主界面](docs/images/01_home.png) | ![应用更新](docs/images/07_update.png) |
@@ -40,48 +38,50 @@
 
 ## 推荐应用
 
-以下是当前收录的电视应用，具体说明见下表。
+> ### 这里推荐的应用，全部已纳入易用TV助手内置，可在助手内一键安装。
+
+均为开源社区作品，其中部分是第三方非官方版本，不是内容平台的官方出品；各自有使用限制——有的要自备直播源或配置，有的要登录，有的仅限学习研究。请按各项目的说明使用。
 
 ### mytv-android ★
 
-| 应用 | 仓库 | 最近更新 | 干什么 |
-|---|---|---|---|
-| 抖音TV版 | [myDV](https://github.com/mytv-android/myDV) | 2026-10-26 | 电视刷抖音，登录取 Cookie |
-| myMusic | [myMusic](https://github.com/mytv-android/myMusic) | 2026-10-26 | 电视听歌、歌单搜索 |
-| 火锅短剧 | [myHotpot](https://github.com/mytv-android/myHotpot) | 2026-10-25 | 短剧播放器 |
-| mytv直播壳 | [mytv-android](https://github.com/mytv-android/mytv-android) | 2026-08-21 | 直播壳，要填源 |
-| BV（B站TV） | [bv](https://github.com/mytv-android/bv) | 2026-10-27 | B 站电视端，测试版 |
+| 应用 | 项目 | 最近更新 | 干什么 | 性质 |
+|---|---|---|---|---|
+| 抖音TV版 | [myDV](https://github.com/mytv-android/myDV) | 2026-10-26 | 电视刷抖音，登录取 Cookie | 第三方非官方 |
+| myMusic | [myMusic](https://github.com/mytv-android/myMusic) | 2026-10-26 | 电视听歌、歌单搜索 | 第三方非官方 |
+| 火锅短剧 | [myHotpot](https://github.com/mytv-android/myHotpot) | 2026-10-25 | 短剧播放器 | 第三方非官方 |
+| mytv直播壳 | [mytv-android](https://github.com/mytv-android/mytv-android) | 2026-08-21 | 直播壳，要填源 | 第三方非官方 · 需自备源 |
+| BV（B站TV） | [bv](https://github.com/mytv-android/bv) | 2026-10-27 | B 站电视端，测试版 | 第三方非官方 · 测试版 |
 
 ### 观影
 
-| 应用 | 项目 | 最近更新 | 干什么 |
-|---|---|---|---|
-| 红果短剧 | [aston314/hongguo-tv-releases](https://github.com/aston314/hongguo-tv-releases) | 2026-10-26 | 社区维护版，更新最勤 |
-| 抖音TV轻量版 | [markwaveio/douyin-tv-onn](https://github.com/markwaveio/douyin-tv-onn) | 2026-10-24 | 免登录 |
-| 短剧之家 | [jackherex/duanjuzhijia-down-tv](https://github.com/jackherex/duanjuzhijia-down-tv) | 2026-10-25 | 红果短剧 TV 版 |
-| BT（B站TV） | [chinasoul/BT](https://github.com/chinasoul/BT) | 2026-10-21 | B 站电视端，安卓 5.1+ |
+| 应用 | 项目 | 最近更新 | 干什么 | 性质 |
+|---|---|---|---|---|
+| 红果短剧 | [aston314/hongguo-tv-releases](https://github.com/aston314/hongguo-tv-releases) | 2026-10-26 | 社区维护版，更新最勤 | 第三方非官方 |
+| 抖音TV轻量版 | [markwaveio/douyin-tv-onn](https://github.com/markwaveio/douyin-tv-onn) | 2026-10-24 | 免登录 | 第三方非官方 |
+| 短剧之家 | [jackherex/duanjuzhijia-down-tv](https://github.com/jackherex/duanjuzhijia-down-tv) | 2026-10-25 | 红果短剧 TV 版 | 第三方非官方 |
+| BT（B站TV） | [chinasoul/BT](https://github.com/chinasoul/BT) | 2026-10-21 | B 站电视端，安卓 5.1+ | 第三方非官方 |
 
 ### 直播
 
-| 应用 | 项目 | 最近更新 | 干什么 |
-|---|---|---|---|
-| VSTV | [vesaaa/vstv](https://github.com/vesaaa/vstv) | 2026-10-26 | 央视卫视地方台 |
-| 静观TV | [wangshaojie/LibreTV-App](https://github.com/wangshaojie/LibreTV-App) | 2026-10-25 | 界面简单，安卓 5.0+ |
+| 应用 | 项目 | 最近更新 | 干什么 | 性质 |
+|---|---|---|---|---|
+| VSTV | [vesaaa/vstv](https://github.com/vesaaa/vstv) | 2026-10-26 | 央视卫视地方台 | 第三方非官方 |
+| 静观TV | [wangshaojie/LibreTV-App](https://github.com/wangshaojie/LibreTV-App) | 2026-10-25 | 界面简单，安卓 5.0+ | 第三方非官方 |
 
 ### 影音
 
-| 应用 | 项目 | 最近更新 | 干什么 |
-|---|---|---|---|
-| 影视仓 | [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) | 2026-09-14 | 空壳，要填配置 |
+| 应用 | 项目 | 最近更新 | 干什么 | 性质 |
+|---|---|---|---|---|
+| 影视仓 | [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) | 2026-09-14 | 空壳，要填配置 | 官方开源 · 需自备配置 |
 
 ### 工具
 
-| 应用 | 项目 | 最近更新 | 干什么 |
-|---|---|---|---|
-| Clash Meta | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | 2026-10-21 | 订阅代理 |
-| Fluffy | [mlm-games/Fluffy](https://github.com/mlm-games/Fluffy) | 2026-10-08 | 文件管理器 |
-| Clean Your TV | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | 2026-10-26 | 清理应用与缓存 |
-| 电视桌面优化 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | 2026-10-26 | 换默认桌面 |
+| 应用 | 项目 | 最近更新 | 干什么 | 性质 |
+|---|---|---|---|---|
+| Clash Meta | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | 2026-10-21 | 订阅代理 | 官方开源 · 仅限学习研究 |
+| Fluffy | [mlm-games/Fluffy](https://github.com/mlm-games/Fluffy) | 2026-10-08 | 文件管理器 | 官方开源 |
+| Clean Your TV | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | 2026-10-26 | 清理应用与缓存 | 社区构建 |
+| 电视桌面优化 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | 2026-10-26 | 换默认桌面 | 官方开源 · 需电脑 ADB |
 
 
 作者不想被收录，说一声就撤。有好项目想加进来推广，欢迎找我。
