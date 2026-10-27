@@ -44,25 +44,26 @@
 
 | 分组 | 应用 | 项目 | 版本 | 干什么 |
 |---|---|---|---|---|
-| 头号推荐 | 抖音TV版 | [mytv-android/myDV](https://github.com/mytv-android/myDV) | 2.1.37 | 电视刷抖音，登录要电脑取 Cookie |
-| 头号推荐 | myMusic | [mytv-android/myMusic](https://github.com/mytv-android/myMusic) | 1.0.10 | 电视听歌、歌单搜索 |
-| 头号推荐 | 火锅短剧 | [mytv-android/myHotpot](https://github.com/mytv-android/myHotpot) | 1.0.12 | 短剧播放器，打开就是剧 |
-| 头号推荐 | mytv直播壳 | [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) | 2.2.0.219 | 直播播放器，要自己填源 |
-| 头号推荐 | BV（B站TV） | [mytv-android/bv](https://github.com/mytv-android/bv) | 1.0.0 | B 站电视端，测试版 |
-| 重点推荐 | 红果短剧 | [aston314/hongguo-tv-releases](https://github.com/aston314/hongguo-tv-releases) | 0.2.115 | 社区维护版，更新最勤 |
-| 重点推荐 | 静观TV | [wangshaojie/LibreTV-App](https://github.com/wangshaojie/LibreTV-App) | 2.0.8 | 界面简单，安卓 5.0+ |
-| 重点推荐 | BT（B站TV） | [chinasoul/BT](https://github.com/chinasoul/BT) | 0.9.41 | B 站电视端，安卓 5.1+ |
-| 电视工具 | Clash Meta | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | 2.11.36 | 订阅代理 |
-| 电视工具 | Fluffy | [mlm-games/Fluffy](https://github.com/mlm-games/Fluffy) | 4.5.1 | 文件管理器，能装 APK |
-| 看剧观影 | VSTV | [vesaaa/vstv](https://github.com/vesaaa/vstv) | 2.7.12 | 直播与点播 |
-| 看剧观影 | 短剧之家 | [jackherex/duanjuzhijia-down-tv](https://github.com/jackherex/duanjuzhijia-down-tv) | 3.0.22 | 红果短剧 TV 版 |
-| 备用 | 影视仓 | [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) | 20260914 | 空壳，要自己填配置 |
+| 头号 | 抖音TV版 | [mytv-android/myDV](https://github.com/mytv-android/myDV) | 2.1.37 | 电视刷抖音，登录取 Cookie |
+| 头号 | myMusic | [mytv-android/myMusic](https://github.com/mytv-android/myMusic) | 1.0.10 | 电视听歌、歌单搜索 |
+| 头号 | 火锅短剧 | [mytv-android/myHotpot](https://github.com/mytv-android/myHotpot) | 1.0.12 | 短剧播放器 |
+| 头号 | mytv直播壳 | [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) | 2.2.0.219 | 直播播放器，要填源 |
+| 头号 | BV（B站TV） | [mytv-android/bv](https://github.com/mytv-android/bv) | 1.0.0 | B 站电视端，测试版 |
+| 重点 | 红果短剧 | [aston314/hongguo-tv-releases](https://github.com/aston314/hongguo-tv-releases) | 0.2.115 | 社区维护版，更新最勤 |
+| 重点 | 静观TV | [wangshaojie/LibreTV-App](https://github.com/wangshaojie/LibreTV-App) | 2.0.8 | 界面简单，安卓 5.0+ |
+| 重点 | BT（B站TV） | [chinasoul/BT](https://github.com/chinasoul/BT) | 0.9.41 | B 站电视端，安卓 5.1+ |
+| 工具 | Clash Meta | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | 2.11.36 | 订阅代理 |
+| 工具 | Fluffy | [mlm-games/Fluffy](https://github.com/mlm-games/Fluffy) | 4.5.1 | 文件管理器 |
+| 观影 | VSTV | [vesaaa/vstv](https://github.com/vesaaa/vstv) | 2.7.12 | 直播与点播 |
+| 观影 | 短剧之家 | [jackherex/duanjuzhijia-down-tv](https://github.com/jackherex/duanjuzhijia-down-tv) | 3.0.22 | 红果短剧 TV 版 |
+| 备用 | 影视仓 | [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) | 20260914 | 空壳，要填配置 |
 | 备用 | Clean Your TV | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | 0.3.4 | 清理应用与缓存 |
 | 备用 | 电视桌面优化 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | 1.5.3 | 换默认桌面 |
 | 备用 | 抖音TV轻量版 | [markwaveio/douyin-tv-onn](https://github.com/markwaveio/douyin-tv-onn) | 1.0.12 | 免登录，备选 |
 
 几点说明：
 
+- 头号＝同类里最值得先装的；重点＝更新勤、兼容好；工具、观影看需要；备用＝有门槛或只做补充。
 - BV、BT 首次安装前要在项目页确认一条承诺，不在一键安装里。
 - Clean Your TV 会删应用和缓存，看清再点，别误删。
 - 电视桌面优化装完还要照项目页跑一条命令才生效。
