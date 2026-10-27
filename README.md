@@ -40,28 +40,35 @@
 
 ## 推荐应用
 
-应用更新里收了 16 个开源项目，一键装。这些都是第三方客户端，不是各平台官方应用。下载后按项目发布的大小和 SHA-256 逐项校验，再核对包名、版本和签名，对不上就删包换线路，不会直接装。
+应用更新里收录了 16 个电视应用，一键装。下载后按项目发布的大小和 SHA-256 逐项校验，再核对包名、版本和签名，对不上就删包换线路，不会直接装。
 
-| 分组 | 应用 | 项目 | 作者 | 版本 | 状态 | 干什么 |
-|---|---|---|---|---|---|
-| 头号推荐 | 抖音TV版 | [mytv-android/myDV](https://github.com/mytv-android/myDV) | @mytv-android | 2.1.37 | 维护中 | 抖音电视端，登录要电脑复制 Cookie |
-| 头号推荐 | myMusic | [mytv-android/myMusic](https://github.com/mytv-android/myMusic) | @mytv-android | 1.0.10 | 维护中 | 电视听歌，榜单歌单搜索 |
-| 头号推荐 | 火锅短剧 | [mytv-android/myHotpot](https://github.com/mytv-android/myHotpot) | @mytv-android | 1.0.12 | 维护中 | 短剧播放器，打开就是剧没广告 |
-| 头号推荐 | mytv直播壳 | [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) | @mytv-android | 2.2.0.219 | 维护中 | 直播播放器，装完要自己填源才有台 |
-| 头号推荐 | BV（B站TV） | [mytv-android/bv](https://github.com/mytv-android/bv) | @mytv-android | 1.0.0 | 维护中 | B 站电视端，测试版 · 装之前要自己确认一条承诺，也不在一键安装里 |
-| 重点推荐 | 红果短剧 | [aston314/hongguo-tv-releases](https://github.com/aston314/hongguo-tv-releases) | @aston314 | 0.2.115 | 维护中 | **社区维护版，不是官方出的**，更新最勤，建议先用 |
-| 重点推荐 | 静观TV | [wangshaojie/LibreTV-App](https://github.com/wangshaojie/LibreTV-App) | @wangshaojie | 2.0.8 | 维护中 | 界面简单，安卓 5.0+ |
-| 重点推荐 | BT（B站TV） | [chinasoul/BT](https://github.com/chinasoul/BT) | @chinasoul | 0.9.41 | 维护中 | B 站电视端，安卓 5.1+ · 装之前要确认一条承诺，也不在一键安装里 |
-| 电视工具 | Clash Meta | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | @MetaCubeX | 2.11.36 | 维护中 | 小猫咪订阅，懂的都懂 |
-| 电视工具 | Fluffy | [mlm-games/Fluffy](https://github.com/mlm-games/Fluffy) | @mlm-games | 4.5.1 | 维护中 | 文件管理器，能装 APK |
-| 看剧观影 | VSTV | [vesaaa/vstv](https://github.com/vesaaa/vstv) | @vesaaa | 2.7.12 | 维护中 | 央视卫视地方台直播，装完就有台 |
-| 看剧观影 | 短剧之家 | [jackherex/duanjuzhijia-down-tv](https://github.com/jackherex/duanjuzhijia-down-tv) | @jackherex | 3.0.22 | 维护中 | 红果短剧 TV 版 |
-| 备用 | 影视仓 | [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) | @j4Uq | 20260914 | 更新放缓 | 空壳，要自己填配置 |
-| 备用 | Clean Your TV | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | @udhaykumarbala | 0.3.4 | 维护中 | 删应用和缓存，风险大 |
-| 备用 | 电视桌面优化 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | @Ansub | 1.5.3 | 维护中 | 换默认桌面 · 装完还要照项目页跑一条 ADB 命令才生效 |
-| 备用 | 抖音TV轻量版 | [markwaveio/douyin-tv-onn](https://github.com/markwaveio/douyin-tv-onn) | @markwaveio | 1.0.12 | 维护中 | 免登录，备选 |
+| 分组 | 应用 | 项目 | 版本 | 干什么 |
+|---|---|---|---|---|
+| 头号推荐 | 抖音TV版 | [mytv-android/myDV](https://github.com/mytv-android/myDV) | 2.1.37 | 电视刷抖音，登录要电脑取 Cookie |
+| 头号推荐 | myMusic | [mytv-android/myMusic](https://github.com/mytv-android/myMusic) | 1.0.10 | 电视听歌、歌单搜索 |
+| 头号推荐 | 火锅短剧 | [mytv-android/myHotpot](https://github.com/mytv-android/myHotpot) | 1.0.12 | 短剧播放器，打开就是剧 |
+| 头号推荐 | mytv直播壳 | [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) | 2.2.0.219 | 直播播放器，要自己填源 |
+| 头号推荐 | BV（B站TV） | [mytv-android/bv](https://github.com/mytv-android/bv) | 1.0.0 | B 站电视端，测试版 |
+| 重点推荐 | 红果短剧 | [aston314/hongguo-tv-releases](https://github.com/aston314/hongguo-tv-releases) | 0.2.115 | 社区维护版，更新最勤 |
+| 重点推荐 | 静观TV | [wangshaojie/LibreTV-App](https://github.com/wangshaojie/LibreTV-App) | 2.0.8 | 界面简单，安卓 5.0+ |
+| 重点推荐 | BT（B站TV） | [chinasoul/BT](https://github.com/chinasoul/BT) | 0.9.41 | B 站电视端，安卓 5.1+ |
+| 电视工具 | Clash Meta | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | 2.11.36 | 订阅代理 |
+| 电视工具 | Fluffy | [mlm-games/Fluffy](https://github.com/mlm-games/Fluffy) | 4.5.1 | 文件管理器，能装 APK |
+| 看剧观影 | VSTV | [vesaaa/vstv](https://github.com/vesaaa/vstv) | 2.7.12 | 直播与点播 |
+| 看剧观影 | 短剧之家 | [jackherex/duanjuzhijia-down-tv](https://github.com/jackherex/duanjuzhijia-down-tv) | 3.0.22 | 红果短剧 TV 版 |
+| 备用 | 影视仓 | [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) | 20260914 | 空壳，要自己填配置 |
+| 备用 | Clean Your TV | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | 0.3.4 | 清理应用与缓存 |
+| 备用 | 电视桌面优化 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | 1.5.3 | 换默认桌面 |
+| 备用 | 抖音TV轻量版 | [markwaveio/douyin-tv-onn](https://github.com/markwaveio/douyin-tv-onn) | 1.0.12 | 免登录，备选 |
 
-哪位作者不想被收录，或者想改名改描述，说一声马上撤。
+几点说明：
+
+- BV、BT 首次安装前要在项目页确认一条承诺，不在一键安装里。
+- Clean Your TV 会删应用和缓存，看清再点，别误删。
+- 电视桌面优化装完还要照项目页跑一条命令才生效。
+- 哪位作者不想被收录，或者想改名改描述，说一声马上撤。
+
+最近一次更新：2026-10-27
 
 ## 致谢
 
