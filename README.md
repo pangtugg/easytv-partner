@@ -42,24 +42,25 @@
 
 以下是当前收录的电视应用，具体说明见下表。
 
-| 分组 | 应用 | 项目 | 最近更新 | 干什么 |
+| 类别 | 应用 | 项目 | 最近更新 | 干什么 |
 |---|---|---|---|---|
-| 头号 | 抖音TV版 | [mytv-android/myDV](https://github.com/mytv-android/myDV) | 2026-10-26 | 电视刷抖音，登录取 Cookie |
-| 头号 | myMusic | [mytv-android/myMusic](https://github.com/mytv-android/myMusic) | 2026-10-26 | 电视听歌、歌单搜索 |
-| 头号 | 火锅短剧 | [mytv-android/myHotpot](https://github.com/mytv-android/myHotpot) | 2026-10-25 | 短剧播放器 |
-| 头号 | mytv直播壳 | [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) | 2026-08-21 | 直播播放器，要填源 |
-| 头号 | BV（B站TV） | [mytv-android/bv](https://github.com/mytv-android/bv) | 2026-10-27 | B 站电视端，测试版 |
-| 重点 | 红果短剧 | [aston314/hongguo-tv-releases](https://github.com/aston314/hongguo-tv-releases) | 2026-10-26 | 社区维护版，更新最勤 |
-| 重点 | 静观TV | [wangshaojie/LibreTV-App](https://github.com/wangshaojie/LibreTV-App) | 2026-10-25 | 界面简单，安卓 5.0+ |
-| 重点 | BT（B站TV） | [chinasoul/BT](https://github.com/chinasoul/BT) | 2026-10-21 | B 站电视端，安卓 5.1+ |
+| 观影 | 抖音TV版 | [mytv-android/myDV](https://github.com/mytv-android/myDV) | 2026-10-26 | 电视刷抖音，登录取 Cookie |
+| 观影 | 抖音TV轻量版 | [markwaveio/douyin-tv-onn](https://github.com/markwaveio/douyin-tv-onn) | 2026-10-24 | 免登录 |
+| 观影 | 红果短剧 | [aston314/hongguo-tv-releases](https://github.com/aston314/hongguo-tv-releases) | 2026-10-26 | 社区维护版，更新最勤 |
+| 观影 | 火锅短剧 | [mytv-android/myHotpot](https://github.com/mytv-android/myHotpot) | 2026-10-25 | 短剧播放器 |
+| 观影 | 短剧之家 | [jackherex/duanjuzhijia-down-tv](https://github.com/jackherex/duanjuzhijia-down-tv) | 2026-10-25 | 红果短剧 TV 版 |
+| 观影 | BT（B站TV） | [chinasoul/BT](https://github.com/chinasoul/BT) | 2026-10-21 | B 站电视端，安卓 5.1+ |
+| 观影 | BV（B站TV） | [mytv-android/bv](https://github.com/mytv-android/bv) | 2026-10-27 | B 站电视端，测试版 |
+| 直播 | VSTV | [vesaaa/vstv](https://github.com/vesaaa/vstv) | 2026-10-26 | 央视卫视地方台 |
+| 直播 | 静观TV | [wangshaojie/LibreTV-App](https://github.com/wangshaojie/LibreTV-App) | 2026-10-25 | 界面简单，安卓 5.0+ |
+| 直播 | mytv直播壳 | [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) | 2026-08-21 | 直播壳，要填源 |
+| 影音 | myMusic | [mytv-android/myMusic](https://github.com/mytv-android/myMusic) | 2026-10-26 | 电视听歌、歌单搜索 |
+| 影音 | 影视仓 | [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) | 2026-09-14 | 空壳，要填配置 |
 | 工具 | Clash Meta | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | 2026-10-21 | 订阅代理 |
 | 工具 | Fluffy | [mlm-games/Fluffy](https://github.com/mlm-games/Fluffy) | 2026-10-08 | 文件管理器 |
-| 观影 | VSTV | [vesaaa/vstv](https://github.com/vesaaa/vstv) | 2026-10-26 | 直播与点播 |
-| 观影 | 短剧之家 | [jackherex/duanjuzhijia-down-tv](https://github.com/jackherex/duanjuzhijia-down-tv) | 2026-10-25 | 红果短剧 TV 版 |
-| 备用 | 影视仓 | [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) | 2026-09-14 | 空壳，要填配置 |
-| 备用 | Clean Your TV | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | 2026-10-26 | 清理应用与缓存 |
-| 备用 | 电视桌面优化 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | 2026-10-26 | 换默认桌面 |
-| 备用 | 抖音TV轻量版 | [markwaveio/douyin-tv-onn](https://github.com/markwaveio/douyin-tv-onn) | 2026-10-24 | 免登录，备选 |
+| 工具 | Clean Your TV | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | 2026-10-26 | 清理应用与缓存 |
+| 工具 | 电视桌面优化 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | 2026-10-26 | 换默认桌面 |
+
 
 作者不想被收录，说一声就撤。有好项目想加进来推广，欢迎找我。
 
