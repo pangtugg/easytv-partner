@@ -50,7 +50,7 @@
 | myMusic | [myMusic](https://github.com/mytv-android/myMusic) | 2026-10-26 | 电视听歌、歌单搜索 | 第三方非官方 |
 | 火锅短剧 | [myHotpot](https://github.com/mytv-android/myHotpot) | 2026-10-25 | 短剧播放器 | 第三方非官方 |
 | mytv直播壳 | [mytv-android](https://github.com/mytv-android/mytv-android) | 2026-08-21 | 直播壳，要填源 | 第三方非官方 · 需自备源 |
-| BV（B站TV） | [bv](https://github.com/mytv-android/bv) | 2026-10-27 | B 站电视端，测试版 | 第三方非官方 · 测试版 |
+| myBV（B站TV） | [myBV](https://github.com/mytv-android/myBV) | 2026-10-27 | B 站电视端，弹幕收藏都能用 | 第三方非官方 |
 
 ### 观影
 
