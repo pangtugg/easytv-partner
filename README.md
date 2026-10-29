@@ -34,12 +34,10 @@
 
 | | |
 |---|---|
-| ![主界面](docs/images/01_home.png) | ![应用更新](docs/images/07_update.png) |
-| 主界面 | 应用更新 |
-| ![应用推荐](docs/images/08_rec.png) | ![工具箱](docs/images/09_tools.png) |
-| 应用推荐 | 工具箱 |
-| ![清理安装包](docs/images/10_clean.png) | |
-| 清理安装包 | |
+| ![主界面](docs/images/01_home.png) | ![应用推荐](docs/images/08_rec.png) |
+| 主界面 | 应用推荐 |
+| ![工具箱](docs/images/09_tools.png) | ![应用更新](docs/images/07_update.png) |
+| 工具箱 | 应用更新 |
 
 ## 推荐应用
 
