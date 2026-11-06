@@ -58,11 +58,11 @@
 
 | 应用 | 项目 | 最近更新 | 干什么 | 性质 |
 |---|---|---|---|---|
-| 抖音TV版 | [myDV](https://github.com/mytv-android/myDV) | 2026-11-02 | 电视刷抖音，登录取 Cookie | 第三方非官方 |
-| myMusic | [myMusic](https://github.com/mytv-android/myMusic) | 2026-11-02 | 电视听歌、歌单搜索 | 第三方非官方 |
-| myHotpot | [myHotpot](https://github.com/mytv-android/myHotpot) | 2026-11-02 | 短剧播放器，打开就有剧 | 第三方非官方 |
-| mytv直播壳 | [mytv-android](https://github.com/mytv-android/mytv-android) | 2026-08-21 | 直播壳，要填源 | 第三方非官方 · 需自备源 |
-| myBV（B站TV） | [myBV](https://github.com/mytv-android/myBV) | 2026-10-27 | B 站电视端，弹幕收藏都能用 | 第三方非官方 |
+| 抖音TV版 | [myDV](https://github.com/mytv-android/myDV) | 2026-11-04 | 电视刷抖音，登录取 Cookie | 第三方非官方 |
+| myMusic | [myMusic](https://github.com/mytv-android/myMusic) | 2026-11-06 | 电视听歌、歌单搜索 | 第三方非官方 |
+| myHotpot | [myHotpot](https://github.com/mytv-android/myHotpot) | 2026-11-06 | 短剧播放器，打开就有剧 | 第三方非官方 |
+| mytv直播壳 | [mytv-android](https://github.com/mytv-android/mytv-android) | 2026-11-02 | 直播壳，要填源 | 第三方非官方 · 需自备源 |
+| myBV（B站TV） | [myBV](https://github.com/mytv-android/myBV) | 2026-11-05 | B 站电视端，弹幕收藏都能用 | 第三方非官方 |
 
 ### 影视
 
@@ -71,9 +71,9 @@
 | 静观TV | [wangshaojie/LibreTV-App](https://github.com/wangshaojie/LibreTV-App) | 2026-11-01 | 内置片源直播源，装完就有内容 | 第三方非官方 |
 | 片刻 | [if-lensman/libretv-standalone](https://github.com/if-lensman/libretv-standalone) | 2026-11-01 | 同生态备选，不预置片源 | 第三方非官方 |
 | VSTV | [vesaaa/vstv](https://github.com/vesaaa/vstv) | 2026-10-28 | 央视卫视地方台，支持 4K 回看 | 第三方非官方 |
-| 红果短剧 | [aston314/hongguo-tv-releases](https://github.com/aston314/hongguo-tv-releases) | 2026-11-02 | 社区维护版，更新最勤 | 第三方非官方 |
+| 红果短剧 | [aston314/hongguo-tv-releases](https://github.com/aston314/hongguo-tv-releases) | 2026-11-06 | 社区维护版，更新最勤 | 第三方非官方 |
 | 抖音TV轻量版 | [markwaveio/douyin-tv-onn](https://github.com/markwaveio/douyin-tv-onn) | 2026-10-24 | 免登录 | 第三方非官方 |
-| 短剧之家 | [jackherex/duanjuzhijia-down-tv](https://github.com/jackherex/duanjuzhijia-down-tv) | 2026-11-02 | 红果短剧 TV 版，进度可同步 | 第三方非官方 |
+| 短剧之家 | [jackherex/duanjuzhijia-down-tv](https://github.com/jackherex/duanjuzhijia-down-tv) | 2026-11-06 | 红果短剧 TV 版，进度可同步 | 第三方非官方 |
 | BT（B站TV） | [chinasoul/BT](https://github.com/chinasoul/BT) | 2026-10-21 | B 站电视端，安卓 5.1+ | 第三方非官方 |
 | 影视仓 | [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) | 2026-09-14 | 空壳，要填配置 | 官方开源 · 需自备配置 |
 | 飞牛TV | [飞牛官网](https://www.fnnas.com) | 2026-10-26 | 飞牛 NAS 官方电视端，看自家片库 | 官方 · 需自备 NAS |
@@ -83,10 +83,10 @@
 | 应用 | 项目 | 最近更新 | 干什么 | 性质 |
 |---|---|---|---|---|
 | Clash Meta | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | 2026-10-21 | 订阅代理 | 官方开源 · 仅限学习研究 |
-| Fluffy | [mlm-games/Fluffy](https://github.com/mlm-games/Fluffy) | 2026-10-08 | 文件管理器 | 官方开源 |
+| Fluffy | [mlm-games/Fluffy](https://github.com/mlm-games/Fluffy) | 2026-10-19 | 文件管理器 | 官方开源 |
 | Clean Your TV | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | 2026-10-26 | 清理应用与缓存 | 社区构建 |
 | Aerial | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 2026-11-06 | 电视桌面，动态屏保 | 官方开源 · 安卓 4.x 有精简版 |
-| 电视桌面优化 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | 2026-10-26 | 换默认桌面 | 官方开源 · 需电脑 ADB |
+| 电视桌面优化 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | 2026-10-28 | 换默认桌面 | 官方开源 · 需电脑 ADB |
 
 ## 致谢
 
