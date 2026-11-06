@@ -32,6 +32,7 @@
 
 ## 更新记录
 
+- **v0.1.2.9**：手机端精简入口，只保留用得上的功能；应用下载支持中途取消停止；更新检查跟随内部版本，同一版本号的修正版也能收到
 - **v0.1.2.8**：桌面图标与推荐列表版面优化，手机上按钮收成一粒、文字更宽松，并修正若干已知问题
 - **v0.1.2.7**：文件互传模块改进，手机端选取文件恢复正常；应用图标统一
 - **v0.1.2.6**：增加易用桌面模块，可一键替换系统桌面；界面外观与应用图标更新
@@ -84,7 +85,7 @@
 | Clash Meta | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | 2026-10-21 | 订阅代理 | 官方开源 · 仅限学习研究 |
 | Fluffy | [mlm-games/Fluffy](https://github.com/mlm-games/Fluffy) | 2026-10-08 | 文件管理器 | 官方开源 |
 | Clean Your TV | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | 2026-10-26 | 清理应用与缓存 | 社区构建 |
-| Aerial | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 2026-11-05 | 电视桌面，动态屏保 | 官方开源 · 安卓 4.x 有精简版 |
+| Aerial | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 2026-11-06 | 电视桌面，动态屏保 | 官方开源 · 安卓 4.x 有精简版 |
 | 电视桌面优化 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | 2026-10-26 | 换默认桌面 | 官方开源 · 需电脑 ADB |
 
 ## 致谢
