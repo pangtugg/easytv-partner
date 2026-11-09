@@ -34,7 +34,7 @@
 
 ## 更新记录
 
-- **v0.1.4（测试版）**：推送功能优化，影视 / 直播源一键推到电视盒子
+- **v0.1.4（测试版）**：一键推源优化
 - **v0.1.3**：设备识别与下载问题修复，界面文案优化
 - **v0.1.2**：新增易用桌面，互传、下载与界面体验优化
 - **v0.1**：首个版本，互传、投照片、清理安装包、检查更新、推送订阅
@@ -52,7 +52,7 @@
 
 > # ✅ 以下推荐的应用，全部已纳入易用TV助手内置，可在助手内一键安装
 
-以下收录的软件全部**仅供学习研究，不做商用**。均为开源社区作品，其中部分是第三方非官方版本，不是内容平台的官方出品；各自有使用限制——有的要自备直播源或配置，有的要登录。请按各项目的说明使用。
+以下收录的软件均为开源社区作品，其中部分是第三方非官方版本，不是内容平台的官方出品；各自有使用限制——有的要自备直播源或配置，有的要登录。请按各项目的说明使用。
 
 ### mytv-android ★
 
@@ -82,7 +82,7 @@
 
 | 应用 | 项目 | 最近更新 | 干什么 | 性质 |
 |---|---|---|---|---|
-| Clash Meta | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | 2026-10-21 | 订阅代理 | 官方开源 · 仅限学习研究 |
+| Clash Meta | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | 2026-10-21 | 订阅代理 | 官方开源 |
 | Fluffy | [mlm-games/Fluffy](https://github.com/mlm-games/Fluffy) | 2026-10-19 | 文件管理器 | 官方开源 |
 | Clean Your TV | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | 2026-10-26 | 清理应用与缓存 | 社区构建 |
 | Aerial | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 2026-11-06 | 电视桌面，动态屏保 | 官方开源 · 安卓 4.x 有精简版 |
