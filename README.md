@@ -34,6 +34,7 @@
 
 ## 更新记录
 
+- **v0.1.4.7**：关于页与清理页改版，界面更紧凑
 - **v0.1.4.6**：检查更新提速，应用与芯片识别完善
 - **v0.1.4.5**：一键推源优化
 - **v0.1.3**：设备识别与下载问题修复，界面文案优化
@@ -44,10 +45,12 @@
 
 | | |
 |---|---|
-| ![主界面](docs/images/01_home.png) | ![应用推荐](docs/images/08_rec.png) |
-| 主界面 | 应用推荐 |
-| ![工具箱](docs/images/09_tools.png) | ![应用更新](docs/images/07_update.png) |
-| 工具箱 | 应用更新 |
+| ![主界面](docs/images/01_home.png) | ![工具箱](docs/images/09_tools.png) |
+| 主界面 | 工具箱 |
+| ![垃圾清理](docs/images/10_clean.png) | ![设置](docs/images/11_settings.png) |
+| 垃圾清理 | 设置 |
+| ![性能测试](docs/images/13_perf.png) | ![关于](docs/images/12_about.png) |
+| 性能测试 | 关于 |
 
 ## 推荐应用
 
