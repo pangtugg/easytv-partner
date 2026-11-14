@@ -2,8 +2,8 @@
   "version": 1,
   "updated": "2026-11-14",
   "relays": [
+    { "url": "https://ghproxy.monkeyray.net/" },
     { "url": "https://ghfast.top/" },
-    { "url": "https://gh.noki.icu/" },
-    { "url": "https://ghproxy.monkeyray.net/" }
+    { "url": "https://gh.noki.icu/" }
   ]
 }
