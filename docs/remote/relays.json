@@ -2,19 +2,8 @@
   "version": 1,
   "updated": "2026-11-14",
   "relays": [
-    { "url": "https://ghfast.top/", "tier": 0 },
-    { "url": "https://gh-proxy.com/", "tier": 0 },
-    { "url": "https://gh-proxy.net/", "tier": 0 },
-    { "url": "https://ghproxy.net/", "tier": 0 },
-    { "url": "https://mirror.ghproxy.com/", "tier": 0 },
-    { "url": "https://hub.gitmirror.com/", "tier": 0 },
-    { "url": "https://gh.llkk.cc/", "tier": 0 },
-    { "url": "https://gh-proxy.at9.net/", "tier": 0 },
-    { "url": "https://github.akams.cn/", "tier": 0 },
-    { "url": "https://ghproxy.homeboyc.cn/", "tier": 0 },
-    { "url": "https://moeyy.cn/gh-proxy/", "tier": 0 },
-    { "url": "https://gh-proxy.cc/", "tier": 0 },
-    { "url": "https://ghps.cc/", "tier": 0 },
-    { "url": "https://gh.ddlc.top/", "tier": 0 }
+    { "url": "https://ghfast.top/" },
+    { "url": "https://gh.noki.icu/" },
+    { "url": "https://ghproxy.monkeyray.net/" }
   ]
 }
