@@ -78,12 +78,13 @@
 
 | 应用 | 项目 | 最近更新 | 干什么 | 性质 |
 |---|---|---|---|---|
+| 短剧之家 | [jackherex/duanjuzhijia-down-tv](https://github.com/jackherex/duanjuzhijia-down-tv) | 2026-11-15 | 喜欢看红果的第一推荐，已升 4.6.45-131 | 第三方非官方 |
+| 短剧之家TV·投屏版 | [jackherex/duanjuzhijia-down-tv](https://github.com/jackherex/duanjuzhijia-down-tv) | 2026-11-14 | 老机顶盒投屏接收端，安卓 4.4 起，安装包仅 582 KB | 第三方非官方 |
 | 静观TV | [wangshaojie/LibreTV-App](https://github.com/wangshaojie/LibreTV-App) | 2026-11-01 | 内置片源直播源，装完就有内容 | 第三方非官方 |
 | 片刻 | [if-lensman/libretv-standalone](https://github.com/if-lensman/libretv-standalone) | 2026-11-01 | 同生态备选，不预置片源 | 第三方非官方 |
 | VSTV | [vesaaa/vstv](https://github.com/vesaaa/vstv) | 2026-10-28 | 央视卫视地方台，支持 4K 回看 | 第三方非官方 |
 | 红果短剧 | [aston314/hongguo-tv-releases](https://github.com/aston314/hongguo-tv-releases) | 2026-11-06 | 社区维护版，更新最勤 | 第三方非官方 |
 | 抖音TV轻量版 | [markwaveio/douyin-tv-onn](https://github.com/markwaveio/douyin-tv-onn) | 2026-10-24 | 免登录 | 第三方非官方 |
-| 短剧之家 | [jackherex/duanjuzhijia-down-tv](https://github.com/jackherex/duanjuzhijia-down-tv) | 2026-11-06 | 红果短剧 TV 版，进度可同步 | 第三方非官方 |
 | BT（B站TV） | [chinasoul/BT](https://github.com/chinasoul/BT) | 2026-10-21 | B 站电视端，安卓 5.1+ | 第三方非官方 |
 | 影视仓 | [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) | 2026-09-14 | 空壳，要填配置 | 官方开源 · 需自备配置 |
 | 飞牛TV | [飞牛官网](https://www.fnnas.com) | 2026-10-26 | 飞牛 NAS 官方电视端，看自家片库 | 官方 · 需自备 NAS |
