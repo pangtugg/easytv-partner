@@ -22,7 +22,7 @@
 
 九个模块一页看完：开源应用商店、传文件、扫码遥控、投屏、极简桌面、推送助手、垃圾清理、设置、关于。
 
-**主打开源应用商店**：电视上直接搜、直接装应用，下载镜像优先。
+**新增电视盒子专属开源应用商店**：集合 83 款优质电视应用、9 大分类，电视或盒子上直接挑、直接装；下载自带镜像加速，也支持自定义。
 
 正式版 0.1.6 最低要安卓 5.0（API 21），电视、盒子和手机都行，32/64 位通吃，装完自己认设备。
 
@@ -43,7 +43,7 @@
 
 ## 更新记录
 
-- **v0.1.6**：内置开源应用商店，一键装电视应用；下载镜像优先，可自定义加速代理。
+- **v0.1.6**：新增电视盒子专属开源应用商店，集合 83 款优质电视应用、9 大分类，电视或盒子上直接挑、直接装；下载自带镜像加速，也支持自定义。
 - **v0.1.5**：字号三档，界面更紧凑。
 - **v0.1.4 及更早**：互传、投屏、清理、推送等基础功能持续完善。
 
@@ -60,17 +60,9 @@
 
 ## 推荐应用
 
-以下应用均已内置，可在助手里一键安装。均为开源社区作品，按各自项目说明使用。
+商店收录 83 款电视应用，均为开源社区作品，按各自项目说明使用。MYTV家族系列 5 款——myDV、myMusic、myHotpot、mytv直播壳、myBV，作者 [mytv-android](https://github.com/mytv-android)。
 
-| 应用 | 作者 |
-|---|---|
-| myDV | [mytv-android](https://github.com/mytv-android/myDV) |
-| myMusic | [mytv-android](https://github.com/mytv-android/myMusic) |
-| myHotpot | [mytv-android](https://github.com/mytv-android/myHotpot) |
-| mytv直播壳 | [mytv-android](https://github.com/mytv-android/mytv-android) |
-| myBV | [mytv-android](https://github.com/mytv-android/myBV) |
-| 短剧之家 | [jackherex](https://github.com/jackherex/duanjuzhijia-down-tv) |
-| Aerial | [pengchujin](https://github.com/pengchujin/aerial-tv) |
+其余推荐：短剧之家（[jackherex](https://github.com/jackherex/duanjuzhijia-down-tv)）、Aerial（[pengchujin](https://github.com/pengchujin/aerial-tv)）。剩下 78 款覆盖影视、直播、音乐、工具等 9 大分类，在商店里直接挑、直接装。
 
 ## 致谢
 
