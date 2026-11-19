@@ -20,13 +20,13 @@
 
 ## 干什么
 
-九个模块一页看完：扫码遥控、投屏、传文件、开源应用商店、订阅推送、应用更新、工具箱、设置、关于。
+九个模块一页看完：开源应用商店、传文件、扫码遥控、投屏、极简桌面、推送助手、垃圾清理、设置、关于。
 
-**新版主打开源应用商店**：收录经过验证的电视应用，点一下就装到电视上，不用再抄网址、不用再插 U 盘。每个应用带图标、作者、简介、星数和更新日期，装之前能看清是个什么东西。
+**主打开源应用商店**：电视上直接搜、直接装应用，下载镜像优先。
 
 正式版 0.1.6 最低要安卓 5.0（API 21），电视、盒子和手机都行，32/64 位通吃，装完自己认设备。
 
-易用桌面基于 [Clean Your TV](https://github.com/Gathin23/cleanyourtv) 的桌面二次开发，详见[致谢](#致谢)。
+极简桌面基于 [Clean Your TV](https://github.com/Gathin23/cleanyourtv) 二次开发，详见[致谢](#致谢)。
 
 ## 简化版
 
@@ -43,19 +43,16 @@
 
 ## 更新记录
 
-- **v0.1.6**：开源商店改版；商店设置可自定义加速代理，下载一律镜像优先
-- **v0.1.5**：字号三档可选，关于页与清理页改版，界面更紧凑
-- **v0.1.4**：一键推源优化
-- **v0.1.3**：设备识别与下载问题修复，界面文案优化
-- **v0.1.2**：新增易用桌面，互传、下载与界面体验优化
-- **v0.1**：首个版本，互传、投照片、清理安装包、检查更新、推送订阅
+- **v0.1.6**：内置开源应用商店，一键装电视应用；下载镜像优先，可自定义加速代理。
+- **v0.1.5**：字号三档，界面更紧凑。
+- **v0.1.4 及更早**：互传、投屏、清理、推送等基础功能持续完善。
 
 ## 截图
 
 | | |
 |---|---|
-| ![主界面](docs/images/01_home.png) | ![工具箱](docs/images/09_tools.png) |
-| 主界面 | 工具箱 |
+| ![主界面](docs/images/01_home.png) | ![开源应用商店](docs/images/14_store.png) |
+| 主界面 | 开源应用商店 |
 | ![垃圾清理](docs/images/10_clean.png) | ![设置](docs/images/11_settings.png) |
 | 垃圾清理 | 设置 |
 | ![性能测试](docs/images/13_perf.png) | ![关于](docs/images/12_about.png) |
@@ -63,48 +60,21 @@
 
 ## 推荐应用
 
-> # ✅ 以下推荐的应用，全部已纳入易用TV助手内置，可在助手内一键安装
+以下应用均已内置，可在助手里一键安装。均为开源社区作品，按各自项目说明使用。
 
-以下收录的软件均为开源社区作品，其中部分是第三方非官方版本，不是内容平台的官方出品；各自有使用限制——有的要自备直播源或配置，有的要登录。请按各项目的说明使用。
-
-### mytv-android ★
-
-| 应用 | 项目 | 最近更新 | 干什么 | 性质 |
-|---|---|---|---|---|
-| 抖音TV版 | [myDV](https://github.com/mytv-android/myDV) | 2026-11-04 | 电视刷抖音，登录取 Cookie | 第三方非官方 |
-| myMusic | [myMusic](https://github.com/mytv-android/myMusic) | 2026-11-06 | 电视听歌、歌单搜索 | 第三方非官方 |
-| myHotpot | [myHotpot](https://github.com/mytv-android/myHotpot) | 2026-11-06 | 短剧播放器，打开就有剧 | 第三方非官方 |
-| mytv直播壳 | [mytv-android](https://github.com/mytv-android/mytv-android) | 2026-11-02 | 直播壳，要填源 | 第三方非官方 · 需自备源 |
-| myBV（B站TV） | [myBV](https://github.com/mytv-android/myBV) | 2026-11-05 | B 站电视端，弹幕收藏都能用 | 第三方非官方 |
-
-### 影视
-
-| 应用 | 项目 | 最近更新 | 干什么 | 性质 |
-|---|---|---|---|---|
-| 短剧之家 | [jackherex/duanjuzhijia-down-tv](https://github.com/jackherex/duanjuzhijia-down-tv) | 2026-11-15 | 喜欢看红果的第一推荐，已升 4.6.45-131 | 第三方非官方 |
-| 短剧之家TV·投屏版 | [jackherex/duanjuzhijia-down-tv](https://github.com/jackherex/duanjuzhijia-down-tv) | 2026-11-14 | 老机顶盒投屏接收端，安卓 4.4 起，安装包仅 582 KB | 第三方非官方 |
-| 静观TV | [wangshaojie/LibreTV-App](https://github.com/wangshaojie/LibreTV-App) | 2026-11-01 | 内置片源直播源，装完就有内容 | 第三方非官方 |
-| 片刻 | [if-lensman/libretv-standalone](https://github.com/if-lensman/libretv-standalone) | 2026-11-01 | 同生态备选，不预置片源 | 第三方非官方 |
-| VSTV | [vesaaa/vstv](https://github.com/vesaaa/vstv) | 2026-10-28 | 央视卫视地方台，支持 4K 回看 | 第三方非官方 |
-| 红果短剧 | [aston314/hongguo-tv-releases](https://github.com/aston314/hongguo-tv-releases) | 2026-11-06 | 社区维护版，更新最勤 | 第三方非官方 |
-| 抖音TV轻量版 | [markwaveio/douyin-tv-onn](https://github.com/markwaveio/douyin-tv-onn) | 2026-10-24 | 免登录 | 第三方非官方 |
-| BT（B站TV） | [chinasoul/BT](https://github.com/chinasoul/BT) | 2026-10-21 | B 站电视端，安卓 5.1+ | 第三方非官方 |
-| 影视仓 | [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) | 2026-09-14 | 空壳，要填配置 | 官方开源 · 需自备配置 |
-| 飞牛TV | [飞牛官网](https://www.fnnas.com) | 2026-10-26 | 飞牛 NAS 官方电视端，看自家片库 | 官方 · 需自备 NAS |
-
-### 工具
-
-| 应用 | 项目 | 最近更新 | 干什么 | 性质 |
-|---|---|---|---|---|
-| Clash Meta | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | 2026-10-21 | 订阅代理 | 官方开源 |
-| Fluffy | [mlm-games/Fluffy](https://github.com/mlm-games/Fluffy) | 2026-10-19 | 文件管理器 | 官方开源 |
-| Clean Your TV | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | 2026-10-26 | 清理应用与缓存 | 社区构建 |
-| Aerial | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 2026-11-06 | 电视桌面，动态屏保 | 官方开源 · 安卓 4.x 有精简版 |
-| 电视桌面优化 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | 2026-10-28 | 换默认桌面 | 官方开源 · 需电脑 ADB |
+| 应用 | 作者 |
+|---|---|
+| myDV | [mytv-android](https://github.com/mytv-android/myDV) |
+| myMusic | [mytv-android](https://github.com/mytv-android/myMusic) |
+| myHotpot | [mytv-android](https://github.com/mytv-android/myHotpot) |
+| mytv直播壳 | [mytv-android](https://github.com/mytv-android/mytv-android) |
+| myBV | [mytv-android](https://github.com/mytv-android/myBV) |
+| 短剧之家 | [jackherex](https://github.com/jackherex/duanjuzhijia-down-tv) |
+| Aerial | [pengchujin](https://github.com/pengchujin/aerial-tv) |
 
 ## 致谢
 
-**易用桌面是 [Clean Your TV](https://github.com/Gathin23/cleanyourtv) 桌面的二次开发**，桌面布局与交互逻辑来自该项目，原作者 [@Gathin23](https://github.com/Gathin23)。感谢他的开源与分享。
+**极简桌面基于 [Clean Your TV](https://github.com/Gathin23/cleanyourtv) 二次开发**，原作者 [@Gathin23](https://github.com/Gathin23)，感谢开源分享。
 
 其余模块只借鉴思路：tv-detox 的桌面做减法、Clash Meta 的订阅导入、红果与抖音TV 社区的遥控交互、BT 的电视端播放。
 
