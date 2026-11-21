@@ -60,7 +60,7 @@
 
 商店收录 83 款电视应用，均为开源社区作品，按各自项目说明使用。MYTV家族系列 5 款——myDV、myMusic、myHotpot、mytv直播壳、myBV，作者 [mytv-android](https://github.com/mytv-android)。
 
-其余推荐：短剧之家（[jackherex](https://github.com/jackherex/duanjuzhijia-down-tv)）、Aerial（[pengchujin](https://github.com/pengchujin/aerial-tv)）。剩下 78 款覆盖影视、直播、音乐、工具等 9 大分类，在商店里直接挑、直接装。
+其余推荐：短剧之家（[jackherex](https://github.com/jackherex/duanjuzhijia-down-tv)）、Aerial（[pengchujin](https://github.com/pengchujin/aerial-tv)）。其余应用覆盖影视、直播、音乐、工具等分类，支持分类浏览与安装。
 
 ## 致谢
 
