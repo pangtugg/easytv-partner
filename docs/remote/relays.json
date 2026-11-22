@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "relays": [
     { "url": "https://cdn.akaere.online/" },
     { "url": "https://777.z321.cc.cd/" },
@@ -24,7 +24,8 @@
     { "url": "https://ghfile.geekertao.top/" },
     { "url": "https://github.ednovas.xyz/" },
     { "url": "https://g.blfrp.cn/" },
-    { "url": "https://github.chenc.dev/" },
-    { "url": "https://gitproxy.127731.xyz/" }
+    { "url": "https://gitproxy.127731.xyz/" },
+    { "url": "https://ghproxy.cc/" },
+    { "url": "https://ghproxy.site/" }
   ]
 }
