@@ -1,16 +1,17 @@
 {
   "version": 1,
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
+  "source": "https://git.hiwiki.org/data/mirror-speeds.json",
   "relays": [
-    { "url": "https://gh-proxy.com/" },
-    { "url": "https://gg.z321.cc.cd/" },
-    { "url": "https://xsadwsd.kdns.fr/" },
-    { "url": "https://777.z321.cc.cd/" },
+    { "url": "https://ghfile.geekertao.top/" },
+    { "url": "https://cdn.akaere.online/" },
+    { "url": "https://down.mxw.xx.kg/" },
+    { "url": "https://gh.acmsz.top/" },
+    { "url": "https://ghproxy.felicity.land/" },
     { "url": "https://ghproxy.imciel.com/" },
     { "url": "https://gh.monlor.com/" },
-    { "url": "https://gh.acmsz.top/" },
-    { "url": "https://down.mxw.xx.kg/" },
-    { "url": "https://g.z321.cc.cd/" },
+    { "url": "https://xsadwsd.kdns.fr/" },
+    { "url": "https://gg.z321.cc.cd/" },
     { "url": "https://ghfast.top/" }
   ]
 }
